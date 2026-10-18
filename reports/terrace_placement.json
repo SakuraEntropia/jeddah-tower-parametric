@@ -1,0 +1,20 @@
+{
+  "root_xyz": [
+    16.26280981933576,
+    -9.389337626973203,
+    630
+  ],
+  "center_xyz": [
+    31.851267087455653,
+    -18.38933762697321,
+    630
+  ],
+  "side": "A/B concave facade",
+  "local_outward_azimuth_degrees": 330,
+  "diameter_m": 30,
+  "max_projection_m": 33,
+  "embedded_neck_back_m": 6,
+  "height_reference": "L157 630m source matrix",
+  "position_basis": "ASGG top / underside / side; JEC approximately33m projection",
+  "fit_limits": "support and aperture profiles fitted to public renderings, not fabrication CAD"
+}

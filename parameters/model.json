@@ -1,0 +1,845 @@
+{
+  "height_m": 1008,
+  "height_status": "USER_SPECIFIED",
+  "terrace_level": 157,
+  "terrace_z_m": 630,
+  "terrace_diameter_m": 30,
+  "terrace_side": "between tallest wing A and shortest wing B, inward-bowed facade; local azimuth330deg",
+  "terrace_center_outward_offset_m": 18,
+  "balcony_max_depth_m": 3.5,
+  "balcony_position_status": "UNRESOLVED_EXCLUDED_FROM_REVISED_GEOMETRY",
+  "main_levels": [
+    {
+      "level": 1,
+      "height": 4.0,
+      "z_m": 6.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 2,
+      "height": 4.0,
+      "z_m": 10.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 4,
+      "height": 4.0,
+      "z_m": 18.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 7,
+      "height": 4.0,
+      "z_m": 30.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 8,
+      "height": 4.0,
+      "z_m": 34.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 9,
+      "height": 4.0,
+      "z_m": 38.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 10,
+      "height": 4.0,
+      "z_m": 42.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 11,
+      "height": 4.0,
+      "z_m": 46.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 12,
+      "height": 4.0,
+      "z_m": 50.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 13,
+      "height": 8.0,
+      "z_m": 54.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 15,
+      "height": 6.0,
+      "z_m": 62.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 16,
+      "height": 6.0,
+      "z_m": 68.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 18,
+      "height": 8.0,
+      "z_m": 74.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 20,
+      "height": 4.0,
+      "z_m": 82.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 21,
+      "height": 4.0,
+      "z_m": 86.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 22,
+      "height": 4.0,
+      "z_m": 90.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 23,
+      "height": 4.0,
+      "z_m": 94.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 24,
+      "height": 4.0,
+      "z_m": 98.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 25,
+      "height": 4.0,
+      "z_m": 102.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 26,
+      "height": 4.0,
+      "z_m": 106.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 27,
+      "height": 4.0,
+      "z_m": 110.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 28,
+      "height": 4.0,
+      "z_m": 114.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 29,
+      "height": 4.0,
+      "z_m": 118.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 30,
+      "height": 4.0,
+      "z_m": 122.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 31,
+      "height": 4.0,
+      "z_m": 126.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 32,
+      "height": 4.0,
+      "z_m": 130.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 33,
+      "height": 4.0,
+      "z_m": 134.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 34,
+      "height": 4.0,
+      "z_m": 138.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 35,
+      "height": 4.0,
+      "z_m": 142.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 36,
+      "height": 4.0,
+      "z_m": 146.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 37,
+      "height": 4.0,
+      "z_m": 150.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 38,
+      "height": 4.0,
+      "z_m": 154.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 39,
+      "height": 6.0,
+      "z_m": 158.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 40,
+      "height": 6.0,
+      "z_m": 164.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 42,
+      "height": 4.0,
+      "z_m": 170.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 43,
+      "height": 4.0,
+      "z_m": 174.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 44,
+      "height": 4.0,
+      "z_m": 178.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 45,
+      "height": 4.0,
+      "z_m": 182.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 46,
+      "height": 4.0,
+      "z_m": 186.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 47,
+      "height": 4.0,
+      "z_m": 190.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 48,
+      "height": 4.0,
+      "z_m": 194.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 49,
+      "height": 4.0,
+      "z_m": 198.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 50,
+      "height": 4.0,
+      "z_m": 202.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 51,
+      "height": 4.0,
+      "z_m": 206.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 52,
+      "height": 4.0,
+      "z_m": 210.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 53,
+      "height": 4.0,
+      "z_m": 214.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 54,
+      "height": 4.0,
+      "z_m": 218.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 55,
+      "height": 4.0,
+      "z_m": 222.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 56,
+      "height": 8.0,
+      "z_m": 226.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 58,
+      "height": 4.0,
+      "z_m": 234.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 59,
+      "height": 4.0,
+      "z_m": 238.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 60,
+      "height": 4.0,
+      "z_m": 242.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 61,
+      "height": 4.0,
+      "z_m": 246.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 62,
+      "height": 4.0,
+      "z_m": 250.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 63,
+      "height": 4.0,
+      "z_m": 254.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 64,
+      "height": 4.0,
+      "z_m": 258.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 65,
+      "height": 4.0,
+      "z_m": 262.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 66,
+      "height": 8.0,
+      "z_m": 266.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 68,
+      "height": 6.0,
+      "z_m": 274.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 69,
+      "height": 6.0,
+      "z_m": 280.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 71,
+      "height": 4.0,
+      "z_m": 286.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 73,
+      "height": 4.0,
+      "z_m": 294.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 74,
+      "height": 4.0,
+      "z_m": 298.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 75,
+      "height": 4.0,
+      "z_m": 302.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 76,
+      "height": 4.0,
+      "z_m": 306.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 77,
+      "height": 4,
+      "z_m": 310,
+      "source": "AE-000B transcript recovered"
+    },
+    {
+      "level": 78,
+      "height": 4.0,
+      "z_m": 314.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 79,
+      "height": 4.0,
+      "z_m": 318.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 80,
+      "height": 4.0,
+      "z_m": 322.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 81,
+      "height": 4.0,
+      "z_m": 326.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 82,
+      "height": 4.0,
+      "z_m": 330.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 83,
+      "height": 4.0,
+      "z_m": 334.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 84,
+      "height": 8.0,
+      "z_m": 338.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 86,
+      "height": 4.0,
+      "z_m": 346.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 87,
+      "height": 4.0,
+      "z_m": 350.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 88,
+      "height": 4.0,
+      "z_m": 354.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 89,
+      "height": 4.0,
+      "z_m": 358.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 90,
+      "height": 4.0,
+      "z_m": 362.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 91,
+      "height": 4.0,
+      "z_m": 366.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 92,
+      "height": 4.0,
+      "z_m": 370.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 93,
+      "height": 4.0,
+      "z_m": 374.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 94,
+      "height": 4.0,
+      "z_m": 378.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 95,
+      "height": 6.0,
+      "z_m": 382.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 96,
+      "height": 6.0,
+      "z_m": 388.0,
+      "source": "AE-000B 2013-08-02 public transcript"
+    },
+    {
+      "level": 99,
+      "height": 4.0,
+      "z_m": 398.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 100,
+      "height": 4.0,
+      "z_m": 402.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 101,
+      "height": 4.0,
+      "z_m": 406.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 102,
+      "height": 4.0,
+      "z_m": 410.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 103,
+      "height": 4.0,
+      "z_m": 414.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 104,
+      "height": 8.0,
+      "z_m": 418.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 106,
+      "height": 4.0,
+      "z_m": 426.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 107,
+      "height": 4.0,
+      "z_m": 430.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 108,
+      "height": 4.0,
+      "z_m": 434.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 109,
+      "height": 4.0,
+      "z_m": 438.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 110,
+      "height": 4.0,
+      "z_m": 442.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 111,
+      "height": 4.0,
+      "z_m": 446.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 112,
+      "height": 4.0,
+      "z_m": 450.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 113,
+      "height": 4.0,
+      "z_m": 454.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 114,
+      "height": 4.0,
+      "z_m": 458.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 115,
+      "height": 4.0,
+      "z_m": 462.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 116,
+      "height": 4.0,
+      "z_m": 466.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 117,
+      "height": 4.0,
+      "z_m": 470.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 118,
+      "height": 4.0,
+      "z_m": 474.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 119,
+      "height": 4.0,
+      "z_m": 478.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 120,
+      "height": 4.0,
+      "z_m": 482.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 121,
+      "height": 6.0,
+      "z_m": 486.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 122,
+      "height": 6.0,
+      "z_m": 492.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 124,
+      "height": 8.0,
+      "z_m": 498.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 126,
+      "height": 8.0,
+      "z_m": 506.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 128,
+      "height": 8.0,
+      "z_m": 514.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 130,
+      "height": 8.0,
+      "z_m": 522.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 132,
+      "height": 8.0,
+      "z_m": 530.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 134,
+      "height": 8.0,
+      "z_m": 538.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 136,
+      "height": 8.0,
+      "z_m": 546.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 138,
+      "height": 8.0,
+      "z_m": 554.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 140,
+      "height": 8.0,
+      "z_m": 562.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 142,
+      "height": 8.0,
+      "z_m": 570.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 144,
+      "height": 8.0,
+      "z_m": 578.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 146,
+      "height": 8.0,
+      "z_m": 586.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 148,
+      "height": 8.0,
+      "z_m": 594.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 150,
+      "height": 8.0,
+      "z_m": 602.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 152,
+      "height": 8.0,
+      "z_m": 610.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 154,
+      "height": 4.0,
+      "z_m": 618.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 155,
+      "height": 8.0,
+      "z_m": 622.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 157,
+      "height": 4.0,
+      "z_m": 630.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 158,
+      "height": 4.0,
+      "z_m": 634.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 159,
+      "height": 8.0,
+      "z_m": 638.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 161,
+      "height": 6.0,
+      "z_m": 646.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 162,
+      "height": 6.0,
+      "z_m": 652.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 164,
+      "height": 6.0,
+      "z_m": 658.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 165,
+      "height": 6.0,
+      "z_m": 664.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    },
+    {
+      "level": 167,
+      "height": 4.0,
+      "z_m": 670.0,
+      "source": "AE-000A 2013-08-02 public transcript"
+    }
+  ],
+  "mezzanines": [
+    {
+      "label": "B1 Mez",
+      "z_m": 0.5,
+      "area_m2": 3259
+    },
+    {
+      "label": "2 Mez",
+      "z_m": 14,
+      "area_m2": 474
+    },
+    {
+      "label": "4 Mez",
+      "z_m": 22,
+      "area_m2": 474
+    },
+    {
+      "label": "71 Mez",
+      "z_m": 290,
+      "area_m2": 285
+    },
+    {
+      "label": "96 Mez",
+      "z_m": 394,
+      "area_m2": 725
+    }
+  ],
+  "facade_nominal_horizontal_module_m": 1.5,
+  "first_installed_unit_m": [
+    1.5,
+    5.3
+  ],
+  "first_unit_note": "Specific L18 unit; not tower-wide storey height",
+  "curtain_wall_joint_mm": 40,
+  "roof_source": "ASGG canopies_from_water, view_near_stairs, drop_off; public 2014 AE1002 plan preview",
+  "roof_dimension_status": "Image-reconstructed control surfaces, not original fabrication model",
+  "terrace_max_projection_m": 33,
+  "reconstruction_status": "PARTIAL_CORRECTION_SAVED",
+  "balcony_groups_m": {},
+  "balcony_max_depth_status": "Unused legacy value; depth not verified"
+}

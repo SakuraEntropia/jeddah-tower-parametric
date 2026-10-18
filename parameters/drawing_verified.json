@@ -1,0 +1,80 @@
+{
+  "status": "PARTIAL_CORRECTION_SAVED",
+  "units": "m",
+  "height": {
+    "value": 1008,
+    "basis": "USER_SPECIFIED"
+  },
+  "balconies": {
+    "level_assignments": null,
+    "xy_contours_by_level": null,
+    "depth": null,
+    "note": "CTBUH2013 p14的3.5m是楼板边缘悬挑原则，不能直接当阳台最大凹入深度；RWDI荷载分区线不等于阳台轮廓。",
+    "geometry_status": "Old rejected groups excluded; not rebuilt"
+  },
+  "crown": {
+    "end_wall_inclinations_degrees": [
+      3.0,
+      3.3,
+      3.6
+    ],
+    "inclination_to_wing_mapping": null,
+    "registered_exterior_sections": {
+      "file": "reports/crown_source_register.json",
+      "method": "Three vector silhouette projections; hidden concave faces underdetermined",
+      "not_original_cad": true
+    },
+    "note": "结构墙平面不直接等于幕墙外边界；不假设三斜面共享顶点；不混用版本。"
+  },
+  "terrace": {
+    "historical_level": 157,
+    "historical_z": 630,
+    "max_projection_approx": 33,
+    "diameter": null,
+    "center_offset": null,
+    "support_profile": null,
+    "note": "不能由约33m外伸及媒体约30m直径推导中心18m作为定尺寸。"
+  },
+  "facade": {
+    "nominal_horizontal_module": 1.5,
+    "joint_mm": 40,
+    "reference": "ASGG2013 and Jangho2025, version distinction retained"
+  },
+  "references": [
+    {
+      "id": "RWDI2012",
+      "file": "work/v3_research/RWDI_1011301_original.pdf",
+      "figure_pages": {
+        "4a": 116,
+        "4b": 117,
+        "4c": 118,
+        "4d": 119,
+        "5a": 120,
+        "5b": 121,
+        "6a": 122,
+        "6b": 123,
+        "6c": 124,
+        "6d": 125,
+        "7a": 126,
+        "7b": 127,
+        "8a": 128,
+        "8b": 129,
+        "8c": 130,
+        "8d": 131,
+        "9a": 132,
+        "9b": 133
+      },
+      "role": "荷载分区立面和方向键图；不是阳台施工定位图。",
+      "model_basis": "2011.10.05 TOWER MASSING.3dm; report Table1"
+    },
+    {
+      "id": "ASGG2026",
+      "url": "https://wbowe.com/2026/04/26/jeddah-tower-the-worlds-tallest-building-ben-johnson/",
+      "times": {
+        "22:32": "Spire Section and Plans",
+        "46:54": "Exterior Wall Balcony"
+      },
+      "role": "图形核对；未读清尺寸不入模"
+    }
+  ]
+}

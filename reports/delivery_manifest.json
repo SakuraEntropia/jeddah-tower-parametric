@@ -1,0 +1,9 @@
+{
+  "version": "V5_PARTIAL_CORRECTION",
+  "model": "jeddah_tower_1008m_v5.blend",
+  "bytes": 3044519,
+  "sha256": "d778abd1c966d7878df23c40bbdc06aa3d774051e0f88dd665c2df8d0d290071",
+  "mesh_checks": "reports/mesh_checks.json",
+  "known_gaps": "docs/STATUS.md",
+  "balconies": "not reconstructed; old groups removed"
+}
